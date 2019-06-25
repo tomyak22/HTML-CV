@@ -1,0 +1,28 @@
+body{
+  background-color: #dedede;
+}
+hr{
+  border-color: #f09c67;
+  border-width: 5px;
+  border-style: dotted none none;
+  height: 0;
+  width: 5%;
+}
+h1{
+  color: #4c8492;
+}
+h3{
+  color: #4c8492;
+}
+img{
+  box-shadow: 10px 5px 5px #f09c67;
+}
+.circular{
+  border-radius: 100%;
+}
+.links{
+  color: #4c8492;
+}
+.links:hover{
+  color: #f09c67;
+}
